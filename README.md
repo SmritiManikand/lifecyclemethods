@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onPause() {
         super.onPause();
-        Toast toast = Toast.makeText(getApplicationContext(), "onPause= Called", Toast.LENGTH_LONG);
+        Toast toast = Toast.makeText(getApplicationContext(), "onPause Called", Toast.LENGTH_LONG);
         toast.show();
     }
 
@@ -103,10 +103,24 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(getApplicationContext(), "onStop Called", Toast.LENGTH_LONG);
         toast.show();
     }
+
+    protected void onDestroy() {
+        super.onDestroy();
+        Toast toast = Toast.makeText(getApplicationContext(), "onDestroy Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
 }
 ```
 
 ## OUTPUT
+
+
+## OnCreate
+## OnStart
+## OnRestart
+## OnPause
+## OnStop
+## OnDestroy
 
 ![sh1](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/35d97ca1-d702-4a20-88f5-2ab04ba8b0ca)
 
