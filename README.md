@@ -128,6 +128,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OnRestart
+
+
+![sh5](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/efc4a118-9fb4-4207-938c-7eaaecda7d4f)
+
+
+
 ## OnPause
 
 ![sh2](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/1b7b54e1-5ade-4217-94e1-47baba875c27)
@@ -146,13 +152,9 @@ public class MainActivity extends AppCompatActivity {
 ## OnDestroy
 
 
-
-
-
 ![sh4](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/38ab44cd-eb5a-49ce-beed-5edbcbd9f09d)
 
 
-![sh5](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/efc4a118-9fb4-4207-938c-7eaaecda7d4f)
 
 
 ![sh6](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/54cfe511-fe39-4910-acc2-4cbf1d0c7b18)
