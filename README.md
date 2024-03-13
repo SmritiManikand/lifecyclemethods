@@ -108,6 +108,25 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![sh1](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/35d97ca1-d702-4a20-88f5-2ab04ba8b0ca)
+
+
+![sh2](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/1b7b54e1-5ade-4217-94e1-47baba875c27)
+
+
+![sh3](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/f348b213-d4b4-4c13-a04b-7a2df7fd5f8a)
+
+
+![sh4](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/38ab44cd-eb5a-49ce-beed-5edbcbd9f09d)
+
+
+![sh5](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/efc4a118-9fb4-4207-938c-7eaaecda7d4f)
+
+
+![sh6](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/54cfe511-fe39-4910-acc2-4cbf1d0c7b18)
+
+
+![sh7](https://github.com/SmritiManikand/lifecyclemethods/assets/113674204/a316f57f-9857-499f-aeb3-fb9a55d7ab9c)
 
 
 
