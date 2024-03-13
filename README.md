@@ -32,6 +32,7 @@ Program to print the text “Hello World”.
 Developed by: Smriti M
 Registration Number : 212221040157
 */
+
 package com.example.lifecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
