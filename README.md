@@ -29,9 +29,51 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
+Developed by: Smriti M
+Registration Number : 212221040157
 */
+package com.example.lifecycle;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.widget.Toast;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        Toast toast = Toast.makeText(getApplicationContext(), "onCreate Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
+
+    protected void onStart() {
+        super.onStart();
+        Toast toast = Toast.makeText(getApplicationContext(), "onStart Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
+
+    protected void onRestart() {
+        super.onRestart();
+        Toast toast = Toast.makeText(getApplicationContext(), "onRestart Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
+
+    protected void onPause() {
+        super.onPause();
+        Toast toast = Toast.makeText(getApplicationContext(), "onPause= Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
+
+    protected void onStop() {
+        super.onStop();
+        Toast toast = Toast.makeText(getApplicationContext(), "onStop Called", Toast.LENGTH_LONG);
+        toast.show();
+    }
+}
 ```
 
 ## OUTPUT
